@@ -16,7 +16,7 @@ My background is in **CX, service operations, and technical support**, and I am 
 
 ### Recent Projects
 
-**RFP Bidding Consultation RAG — Evaluation Benchmark**
+**RFP Bidding Consultation RAG  Evaluation Benchmark**
 Built a retrieval and multi-layer evaluation system for RFP documents, covering document selection, value extraction, citation alignment, abstention, and regression diagnostics.
 
 **Pill Detection AI System**
