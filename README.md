@@ -1,8 +1,5 @@
 # Haru Kim
 
-**AI Engineering · RAG Systems · CX & Service Operations**
-
-I build systems that turn **real customer and operational problems into scalable solutions**.
 
 My career started in customer-facing operations and technical support, where I learned that solving one request is only the beginning. I became interested in what happens next:
 
